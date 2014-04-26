@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+    <metadata>
+        <id>mariadb</id>
+        <title>MariaDB</title>
+        <version>5.5.37</version>
+        <authors>MariaDB Foundation</authors>
+        <owners>Thai Phan</owners>
+        <licenseUrl>http://www.gnu.org/licenses/old-licenses/gpl-2.0.html</licenseUrl>
+        <projectUrl>https://mariadb.org</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>MariaDB is a drop-in replacement for MySQL.</description>
+        <tags>mysql database admin mariadb sql</tags>
+    </metadata>
+</package>
