@@ -1,5 +1,5 @@
 try {
-  Install-ChocolateyPackage 'mariadb' 'msi' '/passive' 'http://ftp.osuosl.org/pub/mariadb/mariadb-5.5.37/win32-packages/mariadb-5.5.37-win32.msi' 'http://ftp.osuosl.org/pub/mariadb/mariadb-5.5.37/winx64-packages/mariadb-5.5.37-winx64.msi'
+  Install-ChocolateyPackage 'mariadb' 'msi' '/passive' 'http://ftp.osuosl.org/pub/mariadb/mariadb-10.0.10/win32-packages/mariadb-10.0.10-win32.msi' 'http://ftp.osuosl.org/pub/mariadb/mariadb-10.0.10/winx64-packages/mariadb-10.0.10-winx64.msi'
 
   #------- ADDITIONAL SETUP -------#
   #add it to the path
