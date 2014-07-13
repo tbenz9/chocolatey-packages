@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>deluge</id>
+    <version>1.3.7</version>
+    <title>Deluge</title>
+    <authors>Deluge Team</authors>
+    <owners>Thai Phan</owners>
+    <licenseUrl>http://www.gnu.org/licenses/gpl.txt</licenseUrl>
+    <projectUrl>http://deluge-torrent.org</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Deluge is a full-featured BitTorrent client for Windows.</description>
+    <tags>torrent download deluge file sharing</tags>
+  </metadata>
+</package>
